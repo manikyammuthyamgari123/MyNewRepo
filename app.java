@@ -4,6 +4,7 @@ public class HelloWorld {
     }
 }
 
+
 //Dev2  PUSH from local
 package SimpleNumberPrograms;
 
@@ -14,3 +15,6 @@ public class PrintInteger {
 		System.out.printf("\nThe integer values = %d", number );
 	}
 }
+
+new code added by dev-1 without pull the code
+
